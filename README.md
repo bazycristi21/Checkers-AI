@@ -1,2 +1,2 @@
 # Checkers-AI
-Alpha-Beta AI algorithm for Checkers game
+Alpha-Beta AI algorithm for Checkers game + Pygame interface
